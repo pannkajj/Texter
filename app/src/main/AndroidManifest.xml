@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021.
+  ~
+  ~ This is a part of Texter Project (https://github.com/pannkajj/Texter/)
+  -->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="me.pankajchoudhary.texter">
 

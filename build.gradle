@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2021.
+ *
+ * This is a part of Texter Project (https://github.com/pannkajj/Texter/)
+ */
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {
